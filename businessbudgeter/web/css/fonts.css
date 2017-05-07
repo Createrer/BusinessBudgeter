@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'ITCBauhaus-Medium';
+  font-style: normal;
+  font-weight: bold;
+  src: local('ITCBauhaus-Medium Bold'), local('ITCBauhaus-Medium'), url(ITCBauhausMedium.woff) format('woff');
+}
